@@ -11,3 +11,5 @@ Hardworking and passionate job seeker with strong organizational skills eager to
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn](linkedin.com/in/marco-estrada05)
