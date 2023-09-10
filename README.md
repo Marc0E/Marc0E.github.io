@@ -6,4 +6,8 @@ Hardworking and passionate job seeker with strong organizational skills eager to
 
 ## Current projects
 
+ * Hello World: Java console application
+      
+ * Hello World: Android app
+
 ## Links
