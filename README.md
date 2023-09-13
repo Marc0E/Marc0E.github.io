@@ -6,10 +6,10 @@ Hardworking and passionate job seeker with strong organizational skills eager to
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/ddc-java-16/hello-world-Marc0E.git)
       
 * Hello World: Android app
 
 ## Links
 
-* [LinkedIn](linkedin.com/in/marco-estrada05 "Marco Estrada")
+* [LinkedIn](https://linkedin.com/in/marco-estrada05 "Marco Estrada")
