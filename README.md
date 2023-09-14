@@ -14,6 +14,6 @@ Hardworking and passionate job seeker with strong organizational skills eager to
 
 * [LinkedIn](https://linkedin.com/in/marco-estrada05 "Marco Estrada")
 
-> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
-> 
-> Every line (blank or not) of a blockquote begins with `>`, followed by a space.
+ > A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
+ > 
+ > Every line (blank or not) of a blockquote begins with `>`, followed by a space.
